@@ -1,0 +1,33 @@
+{
+  "name": "multipleselect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulten/multipleSelect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulten/multipleSelect/issues"
+  },
+  "homepage": "https://github.com/gulten/multipleSelect#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.1",
+    "gulp-uglify": "^3.0.2",
+    "postcss": "^8.1.2",
+    "sass": "^1.35.1"
+  },
+  "dependencies": {}
+}
